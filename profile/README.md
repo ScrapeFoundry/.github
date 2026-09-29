@@ -12,7 +12,7 @@ We specialize in building high-uptime web scrapers, data pipelines, and public r
 ### 🛒 Run Our Tools
 All of our active, fully-maintained data extractors are hosted securely on the Apify cloud. You do not need to deploy any code to use them—simply configure your parameters and download your CSV.
 
-🔗 **[View the ScrapeFoundry Apify Store](#)** *(<- Replace with your Apify URL)*
+🔗 **[View the ScrapeFoundry Apify Store](https://apify.com/scrape-foundry)** 
 
 ### 🤝 Custom Actor Requests
 Do you need a specific website scraped? Need a custom data field added to one of our existing Apify tools?
